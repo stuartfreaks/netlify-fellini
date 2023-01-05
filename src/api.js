@@ -14,7 +14,7 @@ router.get('/', (req, res) => {
 
 router.get('/test', (req, res) => {
     res.json({
-        'hello' : 'test1'
+        'hello' : 'test2'
     });
 });
 
